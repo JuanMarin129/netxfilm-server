@@ -2,18 +2,24 @@
   "watchMovies": [
     {
       "id": "1234",
+      "title": "Interstellar",
+      "imagen": "http://image.tmdb.org/t/p/w342/fbUwSqYIP0isCiJXey3staY3DNn.jpg",
       "rating": 9,
       "watch": true,
       "movieIdAPI": 157336
     },
     {
       "id": "4568",
-      "rating": null,
-      "watch": false,
+      "title": "John Wick (Otro día para matar)",
+      "imagen": "http://image.tmdb.org/t/p/w342/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+      "rating": "8",
+      "watch": true,
       "movieIdAPI": 245891
     },
     {
       "id": "6987",
+      "title": "John Wick: Pacto de sangre",
+      "imagen": "http://image.tmdb.org/t/p/w342/aSmLqVTFeh9cQkcO8RWzz1gR0ez.jpg",
       "rating": null,
       "watch": false,
       "movieIdAPI": 324552
@@ -22,7 +28,161 @@
       "watch": false,
       "rating": null,
       "movieIdAPI": 329,
-      "id": "4HzFYkJ"
+      "id": "4HzFYkJ",
+      "title": "Jurassic Park (Parque Jurásico)",
+      "imagen": "http://image.tmdb.org/t/p/w342/9i3plLl89DHMz7mahksDaAo7HIS.jpg"
+    },
+    {
+      "rating": 8,
+      "watch": true,
+      "title": "Matrix",
+      "imagen": "http://image.tmdb.org/t/p/w342/2P14LNK2zDBf84tF016blkz4Q4C.jpg",
+      "movieIdAPI": 603,
+      "id": "I6PVTiN"
+    },
+    {
+      "rating": null,
+      "watch": false,
+      "title": "Harry Potter y la piedra filosofal",
+      "imagen": "http://image.tmdb.org/t/p/w342/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "movieIdAPI": 671,
+      "id": "TkH2-fv"
+    },
+    {
+      "rating": null,
+      "watch": true,
+      "title": "No matarás... al vecino",
+      "imagen": "http://image.tmdb.org/t/p/w342/tRPXllE8ktssheL8yEAKwTGRDMk.jpg",
+      "movieIdAPI": 11974,
+      "id": "2c81a_i"
+    },
+    {
+      "rating": null,
+      "watch": true,
+      "title": "Spider-Man: Cruzando el Multiverso",
+      "imagen": "http://image.tmdb.org/t/p/w342/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+      "movieIdAPI": 569094,
+      "id": "PsweJwT"
+    },
+    {
+      "rating": null,
+      "watch": true,
+      "title": "Robot salvaje",
+      "imagen": "http://image.tmdb.org/t/p/w342/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
+      "movieIdAPI": 1184918,
+      "id": "qctGkZe"
+    },
+    {
+      "rating": null,
+      "watch": true,
+      "title": "Masters del universo",
+      "imagen": "http://image.tmdb.org/t/p/w342/6UTNuS4WhpIPqRbEmj9QBRPIkCt.jpg",
+      "movieIdAPI": 11649,
+      "id": "v8kf46i"
+    },
+    {
+      "rating": null,
+      "watch": false,
+      "title": "Cincuenta sombras de Grey",
+      "imagen": "http://image.tmdb.org/t/p/w342/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
+      "movieIdAPI": 216015,
+      "id": "0UCqO3B"
+    },
+    {
+      "rating": null,
+      "watch": false,
+      "title": "La saga Crepúsculo: Luna nueva",
+      "imagen": "http://image.tmdb.org/t/p/w342/utocOfzm6KKhZBKF5HFznk4Pnjb.jpg",
+      "movieIdAPI": 18239,
+      "id": "leJms5Y"
+    },
+    {
+      "rating": null,
+      "watch": false,
+      "title": "Vaiana 2",
+      "imagen": "http://image.tmdb.org/t/p/w342/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
+      "movieIdAPI": 1241982,
+      "id": "pQ3YvRv"
+    },
+    {
+      "rating": null,
+      "watch": true,
+      "title": "Wicked",
+      "imagen": "http://image.tmdb.org/t/p/w342/1ZSVA2pNpc89C07RDgsR6p0GMs7.jpg",
+      "movieIdAPI": 402431,
+      "id": "_aHPR-u"
+    },
+    {
+      "rating": null,
+      "watch": false,
+      "title": "Starship Troopers: Las brigadas del espacio",
+      "imagen": "http://image.tmdb.org/t/p/w342/9IaltAEiBblomRSgSBvTdQWlQW6.jpg",
+      "movieIdAPI": 563,
+      "id": "BBZjkyF"
+    },
+    {
+      "rating": null,
+      "watch": true,
+      "title": "Power Rangers: La película",
+      "imagen": "http://image.tmdb.org/t/p/w342/pk67rEjEZnouTu1gnhrIC0aqNra.jpg",
+      "movieIdAPI": 9070,
+      "id": "rrkyp2m"
+    },
+    {
+      "rating": null,
+      "watch": true,
+      "title": "En el calor de la noche",
+      "imagen": "http://image.tmdb.org/t/p/w342/lRkD04pmGpVSYsObL4LZctxiCt9.jpg",
+      "movieIdAPI": 10633,
+      "id": "qMw-xkW"
+    },
+    {
+      "rating": null,
+      "watch": false,
+      "title": "Asalto a la comisaría del distrito 13",
+      "imagen": "http://image.tmdb.org/t/p/w342/tks6ZQlE4AMiwROj39aPBktE92m.jpg",
+      "movieIdAPI": 17814,
+      "id": "qwv-fDT"
+    },
+    {
+      "rating": null,
+      "watch": false,
+      "title": "Vengadores: Doomsday",
+      "imagen": "http://image.tmdb.org/t/p/w342/eO6OdA4RDRWeCVlDMcsoxWYFySD.jpg",
+      "movieIdAPI": 1003596,
+      "id": "d6vzHN7"
+    },
+    {
+      "rating": null,
+      "watch": false,
+      "title": "Spider-Man 2: El Hombre Araña en acción",
+      "imagen": "http://image.tmdb.org/t/p/w342/5x12ApRXuYnG4SJQOwEW4Fwesp3.jpg",
+      "movieIdAPI": 225925,
+      "id": "vV1QZa0"
+    },
+    {
+      "rating": null,
+      "watch": false,
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "imagen": "http://image.tmdb.org/t/p/w342/rZ4arzyaDyI8l9Y7VIPPsDGARwh.jpg",
+      "movieIdAPI": 911916,
+      "id": "oL8ULN8"
+    },
+    {
+      "rating": null,
+      "watch": false,
+      "title": "Spider-Man: El hombre araña",
+      "imagen": "http://image.tmdb.org/t/p/w342/tmanXLJH0MjXGXUyakM0F4MtHaa.jpg",
+      "movieIdAPI": 225914,
+      "id": "mR1bBy7"
+    },
+    {
+      "rating": null,
+      "watch": true,
+      "title": "Horizonte Final",
+      "imagen": "http://image.tmdb.org/t/p/w342/p0TgEBfbOgWP6xZgSt2T7Ee78vx.jpg",
+      "movieIdAPI": 8413,
+      "id": "xtlStTh"
     }
   ]
 }
