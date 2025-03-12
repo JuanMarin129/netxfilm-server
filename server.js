@@ -1,4 +1,4 @@
-process.loadEnvFile() // Esto permite a Node a acceder a las variables de .env
+require('dotenv').config() // Esto permite a Node a acceder a las variables de .env
 
 const jsonServer = require("json-server")
 
@@ -21,7 +21,7 @@ const router = jsonServer.router("db.json")
 
 server.use(router) // Esto crea todas las rutas básicas de acceso y modificación a la base de datos (get, post, patch, put, delete)
 
-const PORT = process.env.PORT
+const PORT = process.env.PORT | 5005
 
 server.listen(PORT, () => {
     console.log("Servidor ANDANDO")
